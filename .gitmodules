@@ -1,0 +1,6 @@
+[submodule "broadcast"]
+	path = broadcast
+	url = git@github.com:dustin/go-broadcast.git
+[submodule "client"]
+	path = client
+	url = git@github.com:google/go-github.git
