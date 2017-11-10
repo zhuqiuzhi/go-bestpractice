@@ -4,3 +4,6 @@
 [submodule "client"]
 	path = client
 	url = git@github.com:google/go-github.git
+[submodule "oauth2"]
+	path = oauth2
+	url = https://github.com/golang/oauth2.git
