@@ -3,10 +3,10 @@
 ## List
 
 * [broadcast](https://github.com/dustin/go-broadcast): pubsubbing channels
-* [pools](https://github.com/youtube/vitess/tree/master/go/pools)
-* [ratelimter](https://github.com/youtube/vitess/tree/master/go/ratelimiter)
+* [pools](https://github.com/youtube/vitess/tree/master/go/pools): Package pools provides functionality to manage and reuse resources like connections.
+* [ratelimter](https://github.com/youtube/vitess/tree/master/go/ratelimiter): Package ratelimiter implements rate limiting functionality.
 * [client library](https://github.com/google/go-github): go-github is a Go client library for accessing the GitHub API v3.
-* [container]: Go standard package container : List, Heap, Ring 
+* [container](https://github.com/golang/go/tree/master/src/container): Go standard package container : List, Heap, Ring
 
 
 ## Usage
